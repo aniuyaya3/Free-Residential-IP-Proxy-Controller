@@ -105,8 +105,8 @@ GET https://您的worker域名.workers.dev/api/proxies
 **客户端连接格式：**
 
 ```text
-socks5://proxy:888888@<VPS母机IP>:7920
-http://proxy:888888@<VPS母机IP>:7920
+socks5://代理用户名:代理密码@<VPS母机IP>:自定义端口
+http://代理用户名:代理密码@<VPS母机IP>:自定义端口
 
 ```
 
