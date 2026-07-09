@@ -1,3 +1,8 @@
+住宅IP管理系统已经集成进KUI
+
+https://github.com/a6216abcd/K-UI/tree/dev
+
+
 [💬 Telegram 交流群](https://t.me/kejikkkcom) | [📺 YouTube 频道：科技KKK](https://www.youtube.com/@%E7%A7%91%E6%8A%80KKK)
 * **🏠 双ISP住宅IP检测**： https://testisp.info 
 ---
